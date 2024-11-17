@@ -18,6 +18,8 @@
 // Define the local name or IP address to be used for debugging.
 // Coyote2021Linux = 192.168.1.68
 //
+// CoyoteLinux20241102 = 192.168.1.94
+//
 
 //
 // Using a name worked early on but is inconsistent.

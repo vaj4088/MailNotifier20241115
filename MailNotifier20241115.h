@@ -1,4 +1,4 @@
-// Only modify this file to include
+// Only modify this file to include:
 // - function definitions (prototypes)
 // - include files
 // - extern variable definitions
